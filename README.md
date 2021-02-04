@@ -8,7 +8,7 @@ let's learn the basics of HTML
 HTML stands for Hyper Text Markup Language
 
 ### Bones of a web page 
-![](https://media.giphy.com/media/3ohryxUEMbHq6Pp90Q/giphy.gif)
+![]()<img src="https://media.giphy.com/media/3ohryxUEMbHq6Pp90Q/giphy.gif" width="250" height="250"/>
 
 #### The analogy of a web page would be:<br/><br/>
 HTML is like the bones<br/>
