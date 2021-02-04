@@ -19,5 +19,7 @@ HTML is like the bones<br/>
 ### What are HTML tags??
 
 Tags are what surround HTML elements. Most Elements have an opening and closing tags. The opening tags looks like  &lt;tag> . The Closing tag is &lt;/tag> . The content for the HTML element goes between the tags like this: &lt;tag> Content &lt;/tag>
-&lt;h1> to &lt;h6> are title tags
+&lt;h1>&lt;/h1> to &lt;h6>&lt;/h6> are title tags
+&lt;p> &lt;/p> are paragraph tags
+<a>https://www.w3schools.com/tags/default.asp</a>
 
