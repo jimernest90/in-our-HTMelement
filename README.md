@@ -18,5 +18,6 @@ HTML is like the bones<br/>
 
 ### What are HTML tags??
 
-HTML elements are surrounded by tags. "<p>" : paragraph element "<h1> to <h6>" : header tags corresponding to the size of the header. "<h1>" is the largest header element.
+Tags are what surround HTML elements. Most Elements have an opening and closing tags. The opening tags looks like  &lt;tag> . The Closing tag is &lt;/tag> .
+&lt;h1> to &lt;h6> are title tags
 
