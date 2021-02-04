@@ -3,12 +3,12 @@ let's learn the basics of HTML
 
 ### what is HTML??
 
-![](https://media.giphy.com/media/AAsj7jdrHjtp6/giphy.gif | width=100)
+![](https://media.giphy.com/media/AAsj7jdrHjtp6/giphy.gif =250x250)
 
 HTML stands for Hyper Text Markup Language
 
 ### Bones of a web page 
-![](https://media.giphy.com/media/3ohryxUEMbHq6Pp90Q/giphy.gif | width=100)
+![](https://media.giphy.com/media/3ohryxUEMbHq6Pp90Q/giphy.gif =250x250)
 
 #### The analogy of a web page would be:<br/><br/>
 HTML is like the bones<br/>
