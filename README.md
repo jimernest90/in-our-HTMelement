@@ -11,7 +11,7 @@ HTML stands for Hyper Text Markup Language
 ![]()<img src="https://media.giphy.com/media/3ohryxUEMbHq6Pp90Q/giphy.gif" width="250" height="250"/>
 
 #### The analogy of a web page would be:<br/><br/>
-HTML is like the bones<br/>
+- HTML is like the bones<br/>
 - CSS is the skin<br/> 
 - Javascript is the muscles<br/>
 - This means that HTML is our structure of our web page. CSS (Cascading Style Sheets) is the design of our webpage. Javascript is how we make our web page dynamic. 
@@ -19,7 +19,9 @@ HTML is like the bones<br/>
 ### What are HTML tags??
 
 Tags are what surround HTML elements. Most Elements have an opening and closing tags. The opening tags looks like  &lt;tag> . The Closing tag is &lt;/tag> . The content for the HTML element goes between the tags like this: &lt;tag> Content &lt;/tag>
-&lt;h1>&lt;/h1> to &lt;h6>&lt;/h6> are title tags
-&lt;p> &lt;/p> are paragraph tags
-<a href='https://www.w3schools.com/tags/default.asp'>check out more html tags</a>
+&lt;h1>&lt;/h1> to &lt;h6>&lt;/h6> are title tags from biggest to smallest. <br/>
+&lt;p> &lt;/p> are paragraph tags. <br/>
+
+<a href='https://www.w3schools.com/tags/default.asp'>check out more html tags</a> <br/>
+Some tags afe self closing. For example image tags &lt;img src='link'/>
 
