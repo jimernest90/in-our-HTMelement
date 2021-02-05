@@ -1,5 +1,5 @@
 # In our HTMelement
-let's learn the basics of HTML <br/>
+Let's learn the basics of HTML <br/>
 HTML is the standard markup language for creating Web pages <br/>
 
 ### what is HTML??
