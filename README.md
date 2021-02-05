@@ -34,6 +34,8 @@ This tells the browser what document type it's dealing with.
 
 ## Exercise
 
+![]()<img src="https://media.giphy.com/media/oF5oUYTOhvFnO/giphy.gif" width="250" height="250"/>
+
 Step 1: Go to your index.html. It is already filled out with starter code. <br/>
 
 Step 2: In the &lt;title>&lt;/title> write a cool title for your webpage. <br/>
