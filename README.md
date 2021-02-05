@@ -27,3 +27,15 @@ The content for the HTML element goes between the tags like this: &lt;tag> Conte
 <a href='https://www.w3schools.com/tags/default.asp'>check out more html tags</a> <br/>
 Some tags afe self closing. For example image tags &lt;img src='link'/>
 
+### DocType
+
+Every HTML document has a document type declaration. This would look something like: &lt;!Doctype html> This is not an HTML tag. This is information to the browser. 
+This tells the browser what document type it's dealing with. 
+
+## Exercise
+
+Step 1: Go to your index.html. It is already filled out with starter code. <br/>
+
+Step 2: In the &lt;title>&lt;/title> write a cool title for your webpage. <br/>
+
+Step 3: Now we are going to add some content in between our body tags. Lets add a h1 tag. 
