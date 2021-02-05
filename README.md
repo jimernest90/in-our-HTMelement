@@ -1,5 +1,6 @@
 # In our HTMelement
-let's learn the basics of HTML
+let's learn the basics of HTML <br/>
+HTML is the standard markup language for creating Web pages <br/>
 
 ### what is HTML??
 
@@ -17,7 +18,7 @@ HTML stands for Hyper Text Markup Language
 - This means that HTML is our structure of our web page. CSS (Cascading Style Sheets) is the design of our webpage. Javascript is how we make our web page dynamic. 
 
 ### What are HTML tags??
-
+HTML consists of a series of elements. <br/>
 Tags are what surround HTML elements. Most Elements have an opening and closing tags.<br/>
 The opening tags looks like  &lt;tag> . The Closing tag is &lt;/tag> . <br/>
 The content for the HTML element goes between the tags like this: &lt;tag> Content &lt;/tag> <br/>
